@@ -33,8 +33,8 @@
 ### Install Package
 1. Clone this repository and navigate to the folder
 ```bash
-git clone https://github.com/zhuoyan-xu/test-adallava.git
-cd test-adallava
+git clone https://github.com/zhuoyan-xu/AdaLLaVA.git
+cd AdaLLaVA
 ```
 
 2. Create Environment
