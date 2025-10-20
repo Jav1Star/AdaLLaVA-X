@@ -1,0 +1,22 @@
+# 日志文件
+*logs*/
+H_logs*/
+logs*/
+
+# Python 缓存
+__pycache__/
+*.py[cod]
+*$py.class
+
+# 包文件
+*.egg-info/
+dist/
+build/
+
+# 可能的大型依赖/子模块
+/LLaVA/
+/lmms-eval/
+
+# 临时文件
+*.tmp
+*.temp
